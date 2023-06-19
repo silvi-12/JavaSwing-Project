@@ -1,6 +1,7 @@
 # Java-Project
 This is a Banking Application in Java made with Swing.
 
+![bank](https://github.com/silvi-12/JavaSwing-Project/assets/113467810/cbd6047b-ae86-4f6d-b773-63702a3df5ff)
 
 <img width="587" alt="image" src="./Bank%20Management%20System/src/images/landing%20page.png">
 <img width="629" alt="image" src="https://github.com/vedant-058/Java-Project/assets/113187868/238c9507-543d-430c-8ec7-ab642483e10a">
